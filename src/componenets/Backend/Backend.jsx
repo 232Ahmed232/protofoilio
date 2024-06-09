@@ -5,7 +5,7 @@ function Backend(){
     return(
         <>
  <>
-            <div className="flex mx-auto w-3/4 my-9 bg-red-100 rounded-lg  text-center justify-around">
+            <div className="flex mx-auto w-3/4 my-9 bg-red-100 rounded-lg  items-center text-center justify-around">
                 <div className="flex-col">
                     <h1 className="font-bold text-xl my-2 ">Name</h1>
                     <hr className="border-white border-2" />
@@ -22,7 +22,7 @@ function Backend(){
                 <div className="flex-col">
                     <h1 className="font-bold text-xl my-2">Link</h1>
                     <hr className="border-white border-2" />
-                    <a href="https://feed-topaz-omega.vercel.app/" target="_blank" className="italic underline my-2 font-medium">Feeder</a>
+                    <a href="https://feed-topaz-omega.vercel.app/" target="_blank" className="italic underline  font-medium">Feeder</a>
 
                 </div>
             </div>

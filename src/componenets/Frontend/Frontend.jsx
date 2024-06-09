@@ -3,7 +3,7 @@ import Items from "../Items/Items";
 function Frontend() {
     return (
         <>
-            <div className="flex mx-auto w-3/4 my-9 bg-red-100 rounded-lg  text-center justify-around">
+            <div className="flex mx-auto w-3/4 my-9 bg-red-100 rounded-lg   text-center justify-around">
                 <div className="flex-col">
                     <h1 className="font-bold text-xl my-2 ">Name</h1>
                     <hr className="border-white border-2" />
