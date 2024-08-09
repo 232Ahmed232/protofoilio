@@ -36,7 +36,7 @@ function Navbar() {
                                 className={({ isActive }) => {
                                     return `${isActive ? active : ""}`
                                 }}>
-                                Contact Details
+                                Contact
                             </NavLink>
                         </li>
                     </ul>
