@@ -22,7 +22,7 @@ function Backend(){
                 <div className="flex-col">
                     <h1 className="font-bold text-xl my-2">Link</h1>
                     <hr className="border-white border-2" />
-                    <a href="https://feed-topaz-omega.vercel.app/" target="_blank" className="italic underline  font-medium">Feeder</a>
+                    <a href="https://feederback.vercel.app/login" target="_blank" className="italic underline  font-medium">Feeder</a>
 
                 </div>
             </div>
